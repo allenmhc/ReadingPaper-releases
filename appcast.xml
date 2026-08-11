@@ -4,5 +4,26 @@
     <title>ReadingPaper</title>
     <description>Updates for ReadingPaper.</description>
     <language>en</language>
+    <item>
+      <title>2.5.0</title>
+      <pubDate>Tue, 11 Aug 2026 05:51:29 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;ReadingPaper 2.5.0&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The app is now called ReadingPaper&lt;/strong&gt;, with a new icon. It was "Reader for
+Instapaper"; the new name and artwork carry none of Instapaper's trademarks or trade dress. It's
+still the same unaffiliated client for the same account — you stay signed in, and your reader
+settings, folders and reading progress all carry over.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Installs from a disk image.&lt;/strong&gt; Releases now ship as a &lt;code&gt;.dmg&lt;/code&gt; with the
+      usual drag-to-Applications window.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Updates itself.&lt;/strong&gt; New versions are found, downloaded and installed in the
+      background — no more copying builds between Macs. There's a
+      &lt;em&gt;ReadingPaper ▸ Check for Updates…&lt;/em&gt; menu item if you'd rather not wait.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is the last version you'll have to install by hand.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/allenmhc/ReadingPaper-releases/releases/download/v2.5.0/ReadingPaper-2.5.0.dmg" length="5930152" type="application/octet-stream" sparkle:edSignature="6al6OPDzZQdEhWYCKoXTqgToDjG9D0/JpvHMfI/S+E4TPuama/keXec1UeD0zClArAUUv0Nriw/HyG5cMnUEBw==" />
+    </item>
   </channel>
 </rss>
