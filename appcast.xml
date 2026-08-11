@@ -5,6 +5,18 @@
     <description>Updates for ReadingPaper.</description>
     <language>en</language>
     <item>
+      <title>2.5.1</title>
+      <pubDate>Tue, 11 Aug 2026 18:09:08 +0000</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>2.5.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;ReadingPaper 2.5.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Redraw the app icon and move the accent to terracotta; 2.5.1&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/allenmhc/ReadingPaper-releases/releases/download/v2.5.1/ReadingPaper-2.5.1.dmg" length="6520197" type="application/octet-stream" sparkle:edSignature="YWlnEGGPx4nJRBfOEcJ9NdZtu6g6ksspmcvgTXh/sIJ7BFeoZ0WIvJto6ZQUgW7L8/OIqaTRtH+sve2qr6iJAQ==" />
+    </item>
+    <item>
       <title>2.5.0</title>
       <pubDate>Tue, 11 Aug 2026 05:51:29 +0000</pubDate>
       <sparkle:version>7</sparkle:version>
