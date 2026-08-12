@@ -5,6 +5,30 @@
     <description>Updates for ReadingPaper.</description>
     <language>en</language>
     <item>
+      <title>2.6.0</title>
+      <pubDate>Wed, 12 Aug 2026 07:10:41 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>2.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;ReadingPaper 2.6.0&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Four themes, and they now colour the whole window.&lt;/strong&gt; White, sepia, gray and black
+— the same set Instapaper offers on the web and on iOS — chosen from swatches painted in the theme
+they select.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Its own settings page.&lt;/strong&gt; The theme is no longer buried in Reader settings:
+      it's &lt;em&gt;View ▸ Theme…&lt;/em&gt; (⌥⌘T), also on the reader toolbar and in the account menu.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The whole pane, not just the article.&lt;/strong&gt; The strip behind the toolbar and the
+      top and bottom of the article list used to stay white whatever you were reading in. Now the
+      window is one continuous field of colour, with the list and the toolbar floating on top
+      of it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A contrasting article list.&lt;/strong&gt; Each theme draws the list in the opposite tone —
+      charcoal beside white paper, espresso beside sepia, off-white beside gray and black — so the
+      two panes stay distinct instead of blending into one another.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Whatever you were reading in carries over: the old light and dark themes become white and black.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/allenmhc/ReadingPaper-releases/releases/download/v2.6.0/ReadingPaper-2.6.0.dmg" length="6584622" type="application/octet-stream" sparkle:edSignature="VwchNUjaIE/WI9hh7CRbtKGs3j5CsFyA2PZBx/ksvl1urIrDH1VOYFGUsQ8JUtnw6IydqmZtGIZVwtPKeAypDA==" />
+    </item>
+    <item>
       <title>2.5.1</title>
       <pubDate>Tue, 11 Aug 2026 18:09:08 +0000</pubDate>
       <sparkle:version>8</sparkle:version>
