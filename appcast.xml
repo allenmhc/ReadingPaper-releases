@@ -5,6 +5,18 @@
     <description>Updates for ReadingPaper.</description>
     <language>en</language>
     <item>
+      <title>2.6.3</title>
+      <pubDate>Thu, 13 Aug 2026 19:14:27 +0000</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>2.6.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;ReadingPaper 2.6.3&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Maintenance release.&lt;/strong&gt; Nothing changes in the app you read in. This one only
+makes a locally built copy look different from an installed one, so the two don't get mixed up
+while the app is being worked on.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/allenmhc/ReadingPaper-releases/releases/download/v2.6.3/ReadingPaper-2.6.3.dmg" length="6589811" type="application/octet-stream" sparkle:edSignature="5ETRXKZw8+A1jq8OmNU3xSenf3jiQ28thOOm0MPEMDgEPvSBmQ3Qi0HpIJSDAZEIsskLT3UtKdA0qbNjc1EvAQ==" />
+    </item>
+    <item>
       <title>2.6.1</title>
       <pubDate>Thu, 13 Aug 2026 18:15:26 +0000</pubDate>
       <sparkle:version>10</sparkle:version>
