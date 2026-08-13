@@ -5,6 +5,19 @@
     <description>Updates for ReadingPaper.</description>
     <language>en</language>
     <item>
+      <title>2.6.4</title>
+      <pubDate>Thu, 13 Aug 2026 21:24:52 +0000</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>2.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;ReadingPaper 2.6.4&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Quotations look like quotations again.&lt;/strong&gt; Some newsletters quote a source at
+length, and that formatting was being lost on the way into the reader — the quoted paragraphs ran
+flush against the writer's own, with nothing to show where one ended and the other began. Where
+it's possible to tell, they're set apart properly now.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/allenmhc/ReadingPaper-releases/releases/download/v2.6.4/ReadingPaper-2.6.4.dmg" length="6591326" type="application/octet-stream" sparkle:edSignature="xoKc1+YnIJf/Mj9iea6KJWQV6xrvuJxhAHvvqCD7/7TGWDmXVgYvMxaNLunwX+YK4uFjvr3tAuKoIpXmJ7C3Cg==" />
+    </item>
+    <item>
       <title>2.6.3</title>
       <pubDate>Thu, 13 Aug 2026 19:14:27 +0000</pubDate>
       <sparkle:version>12</sparkle:version>
