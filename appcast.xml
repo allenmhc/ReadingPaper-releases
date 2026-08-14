@@ -5,6 +5,18 @@
     <description>Updates for ReadingPaper.</description>
     <language>en</language>
     <item>
+      <title>3.0.0</title>
+      <pubDate>Fri, 14 Aug 2026 18:02:21 +0000</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>3.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;ReadingPaper 3.0.0&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Consolidate settings into a dedicated Settings window; 3.0.0&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/allenmhc/ReadingPaper-releases/releases/download/v3.0.0/ReadingPaper-3.0.0.dmg" length="6652685" type="application/octet-stream" sparkle:edSignature="vm10XECzKsy7xjTGq2ec6YYBO/bRWQ6zoBb4pFkhfIr0oulGeox9UumSgSsuqFxMXM30zYjLlrGpNzxgO5hfCA==" />
+    </item>
+    <item>
       <title>2.6.4</title>
       <pubDate>Thu, 13 Aug 2026 21:24:52 +0000</pubDate>
       <sparkle:version>13</sparkle:version>
