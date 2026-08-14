@@ -5,6 +5,18 @@
     <description>Updates for ReadingPaper.</description>
     <language>en</language>
     <item>
+      <title>3.0.1</title>
+      <pubDate>Fri, 14 Aug 2026 20:22:00 +0000</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>3.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;ReadingPaper 3.0.1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Add confetti celebration and crisp About icon; 3.0.1&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <enclosure url="https://github.com/allenmhc/ReadingPaper-releases/releases/download/v3.0.1/ReadingPaper-3.0.1.dmg" length="7247523" type="application/octet-stream" sparkle:edSignature="3alT157ZihqBVvJJ3XuVaQZHHnPsZQaBE1CqsVGBruj0B3FXwB2vczGiY0+ZdOMwdm1IINcVTKvPc5BByttZBQ==" />
+    </item>
+    <item>
       <title>3.0.0</title>
       <pubDate>Fri, 14 Aug 2026 18:02:21 +0000</pubDate>
       <sparkle:version>14</sparkle:version>
