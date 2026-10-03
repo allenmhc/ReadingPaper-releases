@@ -5,6 +5,31 @@
     <description>Updates for ReadingPaper.</description>
     <language>en</language>
     <item>
+      <title>3.3.0</title>
+      <pubDate>Sat, 03 Oct 2026 18:02:21 +0000</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>3.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;h2&gt;ReadingPaper 3.3.0&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Moved to Instapaper's new v2 API.&lt;/strong&gt; ReadingPaper now talks to the API Instapaper
+announced to replace the old one. Day to day it should feel the same, and loading more articles
+is a little simpler under the hood.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;You'll need to sign in once.&lt;/strong&gt; v2 signs in with an access token instead of your
+username and password. Generate one for your account on Instapaper's Applications page, paste it
+into the sign-in screen, and you're back in. Your password and application keys are no longer
+used or stored.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What's gone, for now.&lt;/strong&gt; The new API has no way to list your folders or to read
+and create highlights, so those features have been removed until Instapaper adds them:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Browsing folders and moving articles into them (&lt;code&gt;M&lt;/code&gt;).&lt;/li&gt;
+  &lt;li&gt;Highlighting text (&lt;code&gt;H&lt;/code&gt; and the right-click menu) and the highlights list.&lt;/li&gt;
+  &lt;li&gt;Your username and Premium status in Settings ▸ Account.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Home, Liked and Archive, reading, archiving, liking, deleting, saving links and reading
+progress all work as before.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/allenmhc/ReadingPaper-releases/releases/download/v3.3.0/ReadingPaper-3.3.0.dmg" length="7155061" type="application/octet-stream" sparkle:edSignature="zIBXJY0weQndW1L4zTgeHLgv0dIv5nHz48MV8qHeuNIucR1WiztOR+CnPX6zJMTiV2tO6pxnhB2DoEXNv4ckAg==" />
+    </item>
+    <item>
       <title>3.2.1</title>
       <pubDate>Sun, 13 Sep 2026 18:19:41 +0000</pubDate>
       <sparkle:version>17</sparkle:version>
@@ -127,27 +152,6 @@ they select.&lt;/p&gt;
 &lt;li&gt;Redraw the app icon and move the accent to terracotta; 2.5.1&lt;/li&gt;
 &lt;/ul&gt;</description>
       <enclosure url="https://github.com/allenmhc/ReadingPaper-releases/releases/download/v2.5.1/ReadingPaper-2.5.1.dmg" length="6520197" type="application/octet-stream" sparkle:edSignature="YWlnEGGPx4nJRBfOEcJ9NdZtu6g6ksspmcvgTXh/sIJ7BFeoZ0WIvJto6ZQUgW7L8/OIqaTRtH+sve2qr6iJAQ==" />
-    </item>
-    <item>
-      <title>2.5.0</title>
-      <pubDate>Tue, 11 Aug 2026 05:51:29 +0000</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>2.5.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;h2&gt;ReadingPaper 2.5.0&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;The app is now called ReadingPaper&lt;/strong&gt;, with a new icon. It was "Reader for
-Instapaper"; the new name and artwork carry none of Instapaper's trademarks or trade dress. It's
-still the same unaffiliated client for the same account — you stay signed in, and your reader
-settings, folders and reading progress all carry over.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Installs from a disk image.&lt;/strong&gt; Releases now ship as a &lt;code&gt;.dmg&lt;/code&gt; with the
-      usual drag-to-Applications window.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Updates itself.&lt;/strong&gt; New versions are found, downloaded and installed in the
-      background — no more copying builds between Macs. There's a
-      &lt;em&gt;ReadingPaper ▸ Check for Updates…&lt;/em&gt; menu item if you'd rather not wait.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This is the last version you'll have to install by hand.&lt;/p&gt;</description>
-      <enclosure url="https://github.com/allenmhc/ReadingPaper-releases/releases/download/v2.5.0/ReadingPaper-2.5.0.dmg" length="5930152" type="application/octet-stream" sparkle:edSignature="6al6OPDzZQdEhWYCKoXTqgToDjG9D0/JpvHMfI/S+E4TPuama/keXec1UeD0zClArAUUv0Nriw/HyG5cMnUEBw==" />
     </item>
   </channel>
 </rss>
